@@ -123,3 +123,12 @@ int main() {
 
     return 0;
 }
+
+// Output:
+// Performing warm-up runs...
+// Benchmarking CPU implementation...
+// Benchmarking GPU implementation...
+// CPU time: 62.652942 ms
+// GPU time: 0.194492 ms
+// Speedup: 322.136839
+// Verification passed!
